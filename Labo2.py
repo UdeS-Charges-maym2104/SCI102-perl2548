@@ -1,2 +1,2 @@
 def salutations(nom):
-    print("Bonjour "+ nom + "!")
+    return("Bonjour "+ nom + "!")
